@@ -1,0 +1,9 @@
+name: WAR_positiongroup
+title: WAR_positiongroup
+username:
+account: seththedatascientist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5560537
+bundleId: 8501499
+url: https://seththedatascientist.shinyapps.io/WAR_positiongroup/
